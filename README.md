@@ -1,5 +1,5 @@
 # Build Your Own AI Interview Agent
-### CareerBytes Workshop — June 27, 2025
+### CareerBytes Workshop — June 27, 2026
 
 Welcome! This guide has everything you need to build your own AI-powered interview coach today. No coding experience needed.
 
@@ -263,7 +263,7 @@ Technical Requirements — always follow these exactly:
 - [Bolt.new](https://bolt.new) — Build your app
 - [Claude.ai](https://claude.ai) — Plan your app and generate your Bolt prompt
 - [Anthropic Console](https://console.anthropic.com) — Get your API key
-- [Sage](https://sage-three-pi.vercel.app) — The voice AI interview coach built by your workshop facilitator
+- [Sage](https://www.sageinterview.co) — The voice AI interview coach built by your workshop facilitator
 
 ---
 
